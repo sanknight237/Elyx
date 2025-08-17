@@ -1,0 +1,92 @@
+[
+  {
+    "event_id": "evt_01",
+    "date": "2025-09-02",
+    "title": "Comprehensive Cardiovascular Assessment Initiated",
+    "type": "Diagnostics",
+    "summary": "Dr. Warren recommended a full diagnostic panel, including advanced lipid tests like ApoB and Lp(a).",
+    "rationale": "To get a clear, evidence-based baseline of Rohan's cardiovascular risk, prompted by his urgent request due to his family's history of heart disease.",
+    "source_message_ids": ["msg_001", "msg_008", "msg_009"]
+  },
+  {
+    "event_id": "evt_02",
+    "date": "2025-10-01",
+    "title": "Initial Health Protocol Deployed",
+    "type": "Plan Update",
+    "summary": "Carla introduced a nutrition plan to lower ApoB; Rachel provided a foundational exercise plan to manage blood pressure.",
+    "rationale": "The initial diagnostic results showed elevated ApoB (125 mg/dL) and borderline high blood pressure (135/85 mmHg), which needed to be addressed directly.",
+    "source_message_ids": ["msg_035", "msg_038", "msg_040", "msg_041"]
+  },
+  {
+    "event_id": "evt_03",
+    "date": "2025-10-14",
+    "title": "Plan Adapted for Travel & Lifestyle",
+    "type": "Friction",
+    "summary": "In response to feedback, Neel de-escalated the issue, and the team provided a flexible travel dining guide and a hotel room workout.",
+    "rationale": "Rohan reported that the initial plan was unsustainable with his work and travel schedule, creating a significant friction point that needed to be resolved for long-term adherence.",
+    "source_message_ids": ["msg_045", "msg_048", "msg_049", "msg_050"]
+  },
+  {
+    "event_id": "evt_04",
+    "date": "2025-11-20",
+    "title": "Precision Pivot to CGM Monitoring",
+    "type": "Diagnostics",
+    "summary": "After 3-month tests showed stubbornly high ApoB, Carla recommended a Continuous Glucose Monitor (CGM) to gather more precise, real-time metabolic data.",
+    "rationale": "The 3-month follow-up data showed the general nutrition plan was not effective enough for Rohan's specific physiology, requiring a more personalized, data-driven approach to lower his ApoB.",
+    "source_message_ids": ["msg_068", "msg_070", "msg_071", "msg_072"]
+  },
+  {
+    "event_id": "evt_05",
+    "date": "2025-12-02",
+    "title": "Key Insight: Oatmeal Glucose Spike",
+    "type": "Insight",
+    "summary": "Rohan's new CGM data revealed a massive glucose spike after eating oatmeal, a food he previously considered to be a healthy choice.",
+    "rationale": "The real-time data proved that Rohan's body has a poor glycemic response to that specific breakfast, leading to an immediate, evidence-based change in his nutrition plan to better control metabolic stress.",
+    "source_message_ids": ["msg_079", "msg_080", "msg_081"]
+  },
+  {
+    "event_id": "evt_06",
+    "date": "2025-12-11",
+    "title": "Stress Resilience Protocol Deployed",
+    "type": "Plan Update",
+    "summary": "The team proactively scheduled 'cognitive reset' breaks and dynamically adjusted his training plan to focus on recovery during a high-stress work period.",
+    "rationale": "To mitigate the negative physiological impact of intense work stress and support Rohan's primary goal of enhancing cognitive performance and stamina under pressure.",
+    "source_message_ids": ["msg_087", "msg_088", "msg_090", "msg_092"]
+  },
+  {
+    "event_id": "evt_07",
+    "date": "2026-01-06",
+    "title": "Performance Baseline Established (VO₂max & DEXA)",
+    "type": "Diagnostics",
+    "summary": "To shift the program focus to performance optimization, Advik recommended and Ruby scheduled VO₂max and DEXA scans for Rohan.",
+    "rationale": "With Rohan's core biomarkers stabilized, the next logical step was to establish new, advanced baselines for longevity and performance metrics that Rohan personally cares about.",
+    "source_message_ids": ["msg_099", "msg_102", "msg_108"]
+  },
+  {
+    "event_id": "evt_08",
+    "date": "2026-02-02",
+    "title": "Successful 6-Month Review & Pivot to Longevity",
+    "type": "Insight",
+    "summary": "The 6-month lab results showed excellent results, with ApoB dropping to the optimal range (85 mg/dL). Neel framed this as a graduation to the 'longevity' phase of the program.",
+    "rationale": "The primary health risks identified at the start had been successfully managed, validating the program's effectiveness and allowing the strategy to evolve towards more proactive, long-term health goals.",
+    "source_message_ids": ["msg_119", "msg_120", "msg_121"]
+  },
+  {
+    "event_id": "evt_09",
+    "date": "2026-02-05",
+    "title": "Proactive Screening: Full-Body MRI Scheduled",
+    "type": "Diagnostics",
+    "summary": "Building on the new longevity focus, Rohan proactively requested and the team endorsed scheduling a full-body MRI for early cancer detection.",
+    "rationale": "This decision directly aligns with Rohan's long-term goal of implementing annual, comprehensive health screenings for proactive disease prevention and management.",
+    "source_message_ids": ["msg_124", "msg_125", "msg_126"]
+  },
+  {
+    "event_id": "evt_10",
+    "date": "2026-03-03",
+    "title": "New Longevity Goal: Building Cognitive Reserve",
+    "type": "Plan Update",
+    "summary": "Rohan proactively identified learning a new complex skill (piano) as a way to build cognitive reserve, which Neel fully endorsed and integrated into his Pillar 5 plan.",
+    "rationale": "To further support his goal of enhancing cognitive function, Rohan shifted his focus to a new, evidence-based method for promoting neuroplasticity and long-term brain health.",
+    "source_message_ids": ["msg_136", "msg_137", "msg_138", "msg_139"]
+  }
+]
